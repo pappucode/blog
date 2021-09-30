@@ -1,5 +1,5 @@
 ------------------ For More Help -----------------
-Tutorial site: http://www.trainingwithliveproject.com
-Like us Facebook : https://web.facebook.com/ProDelowar
-Join us Facebook : https://web.facebook.com/groups/PBPTBD
-Join our Forum: http://www.idbscholarsforum.com
+This project is created using oop php
+to enter the site first import the provided db_blog.sql file
+then for front end type localhost/blog/index.php
+for back end type localhost/blog/admin/index.php (Provide perpor data in tbl_user table, then login the admin dashboard)
